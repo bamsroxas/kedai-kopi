@@ -1,0 +1,31 @@
+/*selector untuk style all*/
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+html, body, section
+{
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+section
+{
+    padding: 80px;
+}
+
+#home
+{
+    background-color: dodgerblue;
+    color: white;
+}
+
+#about
+{
+    background-color: chocolate;
+    color: white;
+}
